@@ -24,6 +24,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 <img src="https://imgur.com/a/lPseeug" width=250><br>
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/TwlnFel" data-context="false" ><a href="//imgur.com/a/TwlnFel"></a></blockquote><script async src="//s.imgur.com/min/embed.js" width=250 charset="utf-8"></script><br>
+
 ### Notes
 
 Main challenge faced is figuring out the appropriate API emulator based on having a M1 chip MacBook Air.
